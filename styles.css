@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: "Tahoma", sans-serif;
+}
+body {
+  background: rgb(255, 255, 255);
+  padding: 0 16px;
+}
+
+.button1{
+  background-color:#2ea2cc;
+  padding: 10px 10px;
+  border-radius: 4px;
+  color: #fff;
+  font-size:15px;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.input1{
+  width: 250px;
+  height: 39px;
+}
+
+.cnt1{
+  margin-right: 5px;
+}
+
+.btn2{
+  padding:1px 4px;
+  display: inline-flexbox;
+  justify-content: space-between;
+}
+.todo-container{
+  display: block;
+  margin-left: 40;
+  margin-right: auto;
+}
+hr{
+  width: 800px;
+  margin: 10px 5px;
+}
+
+.tasks{
+  margin:10;
+}
